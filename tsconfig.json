@@ -3,7 +3,7 @@
     "target": "ESNext",
     "module": "ESNext",
 
-    "outDir": "src",
+//    "outDir": "src",
     "esModuleInterop": true,
     "moduleResolution": "node",
     "jsx": "react-native",
